@@ -2,7 +2,10 @@ body { background-color: white;
 }
 p1. { color: lightgray
 }
-
+projects. {font-size: 24px;
+}
+hobbies. {font-size: 24px;
+}
 p{ color: gray;
    font-size: 18px;
   font-family: "Times New Roman", Times, serif;
