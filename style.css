@@ -20,7 +20,8 @@ img{ border-color: lightblue;
    border-radius: 10px;
    border-width: 2px;
 }
-
+.logo { border-color: white;
+}
 
 h2{ color: black;
  
